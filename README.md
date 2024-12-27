@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basic programing language
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me 
-- 😄 Pronouns: you can call me riri
+- 😄 Pronouns: you can call me risa
 - ⚡ Fun fact: im still a beginner dont bully me:)
 
 <!---
