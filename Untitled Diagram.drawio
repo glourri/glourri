@@ -42,7 +42,7 @@
         <mxCell id="xYQhOIxSLyX6GgqdLLuX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xYQhOIxSLyX6GgqdLLuX-27" target="xYQhOIxSLyX6GgqdLLuX-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xYQhOIxSLyX6GgqdLLuX-27" value="hitung subtotal = harga + jumlah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xYQhOIxSLyX6GgqdLLuX-27" value="hitung subtotal = harga * jumlah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xYQhOIxSLyX6GgqdLLuX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xYQhOIxSLyX6GgqdLLuX-30" target="xYQhOIxSLyX6GgqdLLuX-32">
